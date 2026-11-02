@@ -1,0 +1,2 @@
+# Exploration only; PostgreSQL will be the local warehouse.
+duckdb==1.4.3
